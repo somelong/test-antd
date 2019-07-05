@@ -1,0 +1,12 @@
+node_modules
+.vscode
+coverage
+.idea
+public/vendor.js
+public/vendor.manifest.json
+public/config.js
+src/app/styles/sprite.scss
+src/assets/images/sprite.png
+*.log
+dist
+yarn.lock
